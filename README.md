@@ -38,6 +38,9 @@ Sou desenvolvedor focado em **backend**, APIs REST, integrações e sistemas de 
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
+### ⚙️ DevOps & Infraestrutura
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
 ---
 
 ## ⚙️ O que eu desenvolvo
@@ -47,6 +50,8 @@ Sou desenvolvedor focado em **backend**, APIs REST, integrações e sistemas de 
 - 🏥 Sistemas médicos (DICOM, Worklist, PACS)  
 - 🧵 Processamento assíncrono e concorrente  
 - 🏗️ Arquiteturas organizadas (SOLID, Clean Code)
+- 🚀 Pipelines CI/CD com Jenkins
+- 🐳 Containerização de aplicações com Docker
 
 
 ---
