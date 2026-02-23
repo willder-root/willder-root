@@ -64,6 +64,6 @@ Sou desenvolvedor focado em **backend**, APIs REST, integrações e sistemas de 
 
 ## 💬 Frase que me representa
 
-> “Primeiro faça funcionar. Depois faça direito. Então faça rápido.”
+> “Primeiro faça funcionar. Depois faça direito. Então, torne rápido.”
 
 ---
