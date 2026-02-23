@@ -61,9 +61,3 @@ Sou desenvolvedor focado em **backend**, APIs REST, integrações e sistemas de 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willder-araujo-gomes-de-souza-08295b1a2)
 
 ---
-
-## 💬 Frase que me representa
-
-> “Primeiro faça funcionar. Depois faça direito. Então, torne rápido.”
-
----
